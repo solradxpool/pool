@@ -1,0 +1,7 @@
+cat > poolMetaData.json << EOF
+{
+"name": "Solrad Cardano Stake Pool",
+"description": "Decentralised Energy Dencentealised Finance",
+"ticker": "SOLRAD",
+"homepage": "https://solradx.com"
+}
